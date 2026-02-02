@@ -4,15 +4,15 @@ export function Contacts() {
   const offices = [
     {
       city: "Караганда",
-      address: "ул. Бухар-Жырау, 66, офис 201",
-      phone: "+7 (7212) 50-12-34",
-      email: "karaganda@caravangroup.kz",
+      address: "ул. Хайруллы Кабжанова 82, БЦ VzЛетка, офис 203. ",
+      phone: "+7 (705) 674 1127",
+      email: "sales.caravangroup@gmail.com",
     },
     {
       city: "Усть-Каменогорск",
-      address: "ул. Казахстан, 89, офис 305",
+      address: "Самарское шоссе, 1/2. ",
       phone: "+7 (7232) 60-45-67",
-      email: "ust@caravangroup.kz",
+      email: "nicolay.pozharsky@gmail.com",
     },
   ];
 
