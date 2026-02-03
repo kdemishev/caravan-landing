@@ -11,7 +11,7 @@ export function Contacts() {
     {
       city: "Усть-Каменогорск",
       address: "Самарское шоссе, 1/2. ",
-      phone: "+7 (7232) 60-45-67",
+      phone: "+7 707 952 14 27",
       email: "nicolay.pozharsky@gmail.com",
     },
   ];
