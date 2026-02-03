@@ -5,8 +5,8 @@ export function Contacts() {
     {
       city: "Караганда",
       address: "ул. Хайруллы Кабжанова 82, БЦ VzЛетка, офис 203. ",
-      phone: "+7 (705) 674 1127",
-      email: "sales.caravangroup@gmail.com",
+      phone: "+7 775 307 87 19",
+      email: "stranskialeks@mail.ru",
     },
     {
       city: "Усть-Каменогорск",
@@ -121,24 +121,25 @@ export function Contacts() {
           <div className="grid md:grid-cols-2 gap-6 text-sm">
             <div>
               <p className="text-gray-500 mb-1">Полное наименование</p>
-              <p className="font-semibold text-gray-900">ТОО "CaraVan Group"</p>
+              <p className="font-semibold text-gray-900">ТОО «CaraVan Group
+                (КараВан Групп)»</p>
             </div>
             <div>
               <p className="text-gray-500 mb-1">БИН</p>
-              <p className="font-semibold text-gray-900">123456789012</p>
+              <p className="font-semibold text-gray-900">220240017918</p>
             </div>
             <div>
               <p className="text-gray-500 mb-1">ИИК</p>
-              <p className="font-semibold text-gray-900">KZ12345678901234567890</p>
+              <p className="font-semibold text-gray-900">KZ15722S000012707833</p>
             </div>
             <div>
               <p className="text-gray-500 mb-1">БИК банка</p>
-              <p className="font-semibold text-gray-900">KCJBKZKX</p>
+              <p className="font-semibold text-gray-900">CASPKZKA</p>
             </div>
             <div className="md:col-span-2">
               <p className="text-gray-500 mb-1">Юридический адрес</p>
               <p className="font-semibold text-gray-900">
-                Республика Казахстан, 100000, г. Караганда, ул. Бухар-Жырау, 66
+                Казахстан, Карагандинская область, город Караганда, район имени Казыбек Би, Микрорайон Аэропорт городской, улица Хайруллы Кабжанова, строение 82, почтовый индекс 100022
               </p>
             </div>
           </div>
